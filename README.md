@@ -1,5 +1,4 @@
 # Git_demo
-<br>
 First Git Repository
-##########3
+<br>
 Author : Vinay K Hiremath
